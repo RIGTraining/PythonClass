@@ -1,0 +1,3 @@
+https://www.tutorialspoint.com/seaborn/seaborn_quick_guide.htm
+
+https://www.geeksforgeeks.org/python-seaborn-tutorial/

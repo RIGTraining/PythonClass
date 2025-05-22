@@ -1,5 +1,5 @@
 number_tuple = (123,456, 789,15.154)
-name_tuple = ("ZayarNaing","Python Developer")
+name_tuple = ("Software Dev","Python Developer")
 
 print (number_tuple)    #   Prints only number_tuple
 print (name_tuple)      #   Prints only name_tuple

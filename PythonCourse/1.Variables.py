@@ -1,6 +1,6 @@
 integer = 100
 float = 100.0
-name = " Zayar Naing "
+name = " Mg Thet Naing Tun"
 
 print ( integer )
 print ( float )

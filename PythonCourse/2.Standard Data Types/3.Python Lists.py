@@ -1,5 +1,5 @@
 number_list = [123,125,164,125.15]
-name_list = ['ZayarNaing','Python']
+name_list = ['Hello World','Python']
 
 print (number_list)             #   Prints only number list
 print (name_list)               #   Prints only name list
